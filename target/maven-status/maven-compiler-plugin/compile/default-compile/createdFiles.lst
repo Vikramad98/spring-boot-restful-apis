@@ -1,0 +1,17 @@
+com\myapp\repository\EmployeeRepository.class
+com\myapp\model\User.class
+com\myapp\restcontroller\RoleController.class
+com\myapp\SpringBootRestfulApisApplication.class
+com\myapp\model\Role.class
+com\myapp\service\RoleServiceImpl.class
+com\myapp\model\Employee.class
+com\myapp\restcontroller\UserController.class
+com\myapp\service\RoleService.class
+com\myapp\repository\UserRepository.class
+com\myapp\ServletInitializer.class
+com\myapp\service\UserServiceImp.class
+com\myapp\repository\RoleRepository.class
+com\myapp\service\EmployeeService.class
+com\myapp\restcontroller\EmpController.class
+com\myapp\service\UserService.class
+com\myapp\service\EmployeeServiceImpl.class

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.myapp.controller.EmpControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.022 s <<< FAILURE! - in com.myapp.controller.EmpControllerTest
+getEmployees_test_valid  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.myapp.repository.EmployeeRepository.findAll()" because "this.repository" is null
+	at com.myapp.controller.EmpControllerTest.getEmployees_test_valid(EmpControllerTest.java:38)
+
